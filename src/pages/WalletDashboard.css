@@ -33,6 +33,7 @@ o/* Wallet Dashboard Styles */
 }
 
 .welcome-section h1 {
+  color: white
   font-size: var(--font-size-4xl);
   margin-bottom: var(--spacing-xs);
   font-weight: 800;
@@ -44,6 +45,7 @@ o/* Wallet Dashboard Styles */
   opacity: 0.9;
   margin: 0;
   animation: fadeIn 1.5s ease-out;
+  color: whitesmoke
 }
 
 .user-info {
@@ -82,12 +84,14 @@ o/* Wallet Dashboard Styles */
   margin: 0 0 var(--spacing-xs) 0;
   font-size: var(--font-size-xl);
   font-weight: 700;
+  color: white
 }
 
 .user-details p {
   margin: 0 0 var(--spacing-sm) 0;
   font-size: var(--font-size-base);
   opacity: 0.9;
+  color: whitesmoke
 }
 
 /* Balance Section */
