@@ -8,7 +8,7 @@ const WalletDashboard = () => {
   // Mock user data
   const user = {
     name: "Rosene Julie Ann",
-    joinDate: "2024-01-15"
+    joinDate: "2025-03-15"
   };
 
   // Mock wallet data
